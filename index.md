@@ -1,6 +1,6 @@
-#Yekaterina Ruslanovna Kostina#
+# **Yekaterina Ruslanovna Kostina** #
 
-## ** About Me ** ## 
+## **About Me** ## 
 
 Hello! My name Yekaterina, but that's just the long version of my name. I like to go by Katerina or even Kat because it makes it easier for others. My favorite food is anything sweet but specifically Russian Napoleon cake or medovik cake. Dumplings(pelmeni to be even more specific) comes in at a very close strong second. 
 
@@ -34,7 +34,7 @@ I currently work as a student on campus for the Center for Student Involvement d
 [] Documentation 
 [] Internal communication/meetings
 
-## **Education ** ##
+## **Education** ##
 
 I am a fourth year undergraduate student at UCSD majoring in applied mathematics and computer science. I am also interested in web development as stated [here](#background). I went to a charter fine arts school in high school called the Orange County School of the Arts where I was accepted into the visual arts conservatory, so my biggest hobby is art. I love to experiment with all types of mediums including digital media, watercolor, oil painting, and plein-air painting to name a few, but my absolute favorite is oil painting since it is the most forgiving. 
 
