@@ -30,9 +30,9 @@ I am learning to use git so that I could implement some of my own projects using
 
 I currently work as a student on campus for the Center for Student Involvement department. My title is CSI office assistant. It used to be part farmers market, but due to COVID, it hasn't happened for a while and won't be for a few following quarters. Some of my tasks include:
 
-[] Content Management System for [get involved website](https://getinvolved.ucsd.edu/)
-[] Documentation 
-[] Internal communication/meetings
+- [] Content Management System for [get involved website](https://getinvolved.ucsd.edu/)
+- [] Documentation 
+- [] Internal communication/meetings
 
 ## **Education** ##
 
