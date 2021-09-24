@@ -4,7 +4,7 @@
 
 Hello! My name Yekaterina, but that's just the long version of my name. I like to go by Katerina or even Kat because it makes it easier for others. My favorite food is anything sweet but specifically Russian Napoleon cake or medovik cake. Dumplings(pelmeni to be even more specific) comes in at a very close strong second. 
 
-![Image of Me](/profilepic.png)
+![Image of Me](/profilepic.jpg)
 
 >I was in Boston, and despite being from Russia - yes, I was freezing. 
 
